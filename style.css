@@ -32,15 +32,15 @@ html {
   }
 
   .Paper{
-    content:url("/Paper.png");
+    content:url("images/Paper.png");
   }
 
   .Rock{
-    content:url("/Rock.png");
+    content:url("images/Rock.png");
   }
 
   .Scissors{
-    content:url("/Scissors.png");
+    content:url("images/Scissors.png");
   }
 
   .player-options{
